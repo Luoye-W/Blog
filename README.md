@@ -1,5 +1,5 @@
-# 叶落的个人博客
-[blog.yeluo.io](https://blog.yeluo.io)
+# Luoye's blog
+[My blog website👉](https://blog.yeluo.io)
 
-# Luoye's Blog
-[blog.yeluo.io](https://blog.yeluo.io/en)
+# 叶落的博客
+[我的博客网站👉](https://blog.yeluo.io/cn)
